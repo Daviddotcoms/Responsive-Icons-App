@@ -74,3 +74,6 @@ res/mipmap-xxxhdpi/
   )
   ```
 * Only use `px` for pixel-accurate operations like image processing.
+
+## Architecture
+<img width="945" alt="Captura de Pantalla 2025-06-16 a la(s) 15 28 34" src="https://github.com/user-attachments/assets/53da7825-6607-4586-9f62-e650d42cefb8" />
